@@ -1,0 +1,5 @@
+set -tmpdir "/home/student/Vivaldo/xst/projnav.tmp"
+set -xsthdpdir "/home/student/Vivaldo/xst"
+elaborate
+-ifn memory.prj
+-ifmt mixed

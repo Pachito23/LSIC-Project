@@ -1,0 +1,2 @@
+vhdtdtfi -lang verilog -prj Vivaldo -o /home/student/Vivaldo/memory_controller.tfi -lib work /home/student/Vivaldo//memory_controller.v -module memory_controller -template /opt/Xilinx/14.4/ISE_DS/ISE//data/tfi.tft -deleteonerror 
+vhdtdtfi -lang verilog -prj Vivaldo -o /home/student/Vivaldo/memory_controller.tfi -lib work /home/student/Vivaldo//memory_controller.v -module memory_controller -template /opt/Xilinx/14.4/ISE_DS/ISE//data/tfi.tft -deleteonerror 

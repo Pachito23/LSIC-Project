@@ -1,0 +1,2 @@
+verilog work "ipcore_dir/memy.v"
+verilog work "memory_controller.v"

@@ -1,0 +1,6 @@
+verilog work "clk_div.v"
+verilog work "selector.v"
+verilog work "display_seg.v"
+verilog work "counter_time.v"
+verilog work "sev_seg_disp.v"
+verilog work "/opt/Xilinx/14.4/ISE_DS/ISE//verilog/src/glbl.v"

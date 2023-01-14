@@ -1,0 +1,15 @@
+
+
+
+// Instantiate the module
+top_module instance_name (
+    .clk(clk), 
+    .rst(rst), 
+    .ctrl(ctrl), 
+    .use_mem(use_mem), 
+    .dig(dig), 
+    .seg(seg), 
+    .Led(Led)
+    );
+
+

@@ -1,0 +1,17 @@
+
+
+
+// Instantiate the module
+memory_controller instance_name (
+    .clk(clk), 
+    .use_mem(use_mem), 
+    .dig1(dig1), 
+    .dig2(dig2), 
+    .dig3(dig3), 
+    .dig4(dig4), 
+    .time_out(time_out), 
+    .ctrl_in(ctrl_in), 
+    .ctrl_out(ctrl_out)
+    );
+
+

@@ -1,0 +1,1 @@
+vhdtdtfi -lang verilog -prj Vivaldo -o /home/student/Vivaldo/counter.tfi -lib work /home/student/Vivaldo//counter.v -module counter -template /opt/Xilinx/14.4/ISE_DS/ISE//data/tfi.tft -deleteonerror 
